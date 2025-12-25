@@ -1,0 +1,25 @@
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+
+# Dossiers de compilation
+bin/
+out/
+target/
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.iml
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+
+# ===== Tests =====
+/test-results/
