@@ -32,7 +32,10 @@ Projet Java du jeu **Schotten-Totten** (mode classique + variante tactique), ré
 
 ```bash
 javac com/schottenTotten/**/*.java
+```
 
-#### Execution
+### Exécution
+
 ```bash
 java com.schottenTotten.view.App
+```
